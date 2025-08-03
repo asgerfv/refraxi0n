@@ -1,0 +1,14 @@
+0x4c4d44 : kernelbase.&FlsAlloc
+0x4c4d50 : kernelbase.&FlsSetValue
+0x4c4d54 : kernelbase.&InitializeCriticalSectionEx
+0x4c5478 : wininet.&InternetOpenA
+0x4c547c : wininet.&InternetReadFileExA
+0x4c5480 : wininet.&InternetGoOnline
+0x4c5484 : wininet.&HttpSendRequestExW
+0x4c5488 : kernel32.&IsDebuggerPresent : 0x4c5498
+0x4c548c : kernel32.&OutputDebugStringA
+0x4c549c : ntdll.&ZwOpenFile
+0x4c54a0 : ntdll.&ZwCreateFile
+0x4c54a4 : ntdll.&ZwClose
+0x4c54a8 : ntdll.&ZwFlushBuffersFile
+0x4c54ac : kernel32.&OutputDebugStringA
